@@ -2,6 +2,6 @@
 title: "Online Scheduling for LLM Inference with KV Cache Constraints"
 collections: papers
 category: Other topics in Gen AI
-permalink: papers/Online Scheduling for LLM Inference with KV Cache Constraints
+permalink: /papers/Online Scheduling for LLM Inference with KV Cache Constraints
 paperurl: "https://arxiv.org/abs/2502.07115"
 ---
