@@ -9,10 +9,10 @@
 
 main:
   - title: "Research papers"
-    url: /papers
+    url: /papers/
 
   - title: "Studying Materials"
-    url: /materials   
+    url: /materials/
 
   - title: "Some Useful Links"
-    url: /links
+    url: /links/
