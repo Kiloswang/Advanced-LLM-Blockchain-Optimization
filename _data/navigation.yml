@@ -17,5 +17,5 @@ main:
   - title: "Studying Materials"
     url: /materials/
 
-  - title: "Some Useful Links"
-    url: /links/
+  #- title: "Some Useful Links"
+   # url: /links/
