@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ChatGPT Image Aug 14, 2025, 10_34_33 PM.png"
+  avatar           : "images/ChatGPT Image Aug 14, 2025, 10_34_33 PM.png"
   name             : "Advanced LLM/Blockchain/Optimization Reading Group"
   pronouns         : # example: ""  
   bio              : "An internal research/paper reading group for LLM/Blockchain/Operations Research related topics"
