@@ -229,6 +229,18 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  papers:
+    output: true
+    permalink: /:collection/:path/
+  notes:
+    output: true
+    permalink: /:collection/:path/
+  materials:
+    output: true
+    permalink: /:collection/:path/
+  links:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
