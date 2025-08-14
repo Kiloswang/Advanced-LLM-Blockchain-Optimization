@@ -11,6 +11,9 @@ main:
   - title: "Research papers"
     url: /papers/
 
+  - title: "Suscribed Notes"
+    url: /notes/
+
   - title: "Studying Materials"
     url: /materials/
 
