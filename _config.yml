@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : ""
+  name             : "NUS"
   pronouns         : # example: ""  
   bio              : "An internal research/paper reading group for LLM/Blockchain/Operations Research related topics"
   location         : "Singapore"
