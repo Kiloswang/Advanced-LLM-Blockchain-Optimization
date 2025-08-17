@@ -87,6 +87,19 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+papers_category:
+  AI consensus:
+    title: "AI consensus"
+  Supply Chain Finance & Blockchain:
+    title: "Supply Chain Finance & Blockchain"
+  LLM + Optimization:
+    title: "LLM + Optimization"
+  Other Topics in GenAI:
+    title: "Other Topics in GenAI"
+  Other Topics in Blockchain:
+    title: "Other Topics in Blockchain"
+  
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
