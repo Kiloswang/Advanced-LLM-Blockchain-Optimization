@@ -11,5 +11,6 @@ There are some materials for you to learn more about LLM and Blockchain Basics:
   * Stanford CS 336: [link](https://stanford-cs336.github.io/spring2025/), a good course for you to understand and implement an LLM from scratch.   
   * 大语言模型: [link](https://github.com/datawhalechina/llmbook) An introductory course from Renmin University.
   * TTIC 31230: Fundamentals of Deep Learning [link](https://mcallester.github.io/ttic-31230/). If you are interested in deep learning from a theoretical side.
+  * AI for business: [link](https://github.com/rphilipzhang/AI-PhD-S25) An AI course focuses on the business application developed by Prof. Yenyu Zhang at CUHK Business School. You can also refer to [link](https://www.fashengxu.com/genai) for some related materials.
 * Blockchain:
   * Principles of Blockchains: [link](https://web3.princeton.edu/principles-of-blockchains/) Covers most topics you should know about blockchain.
